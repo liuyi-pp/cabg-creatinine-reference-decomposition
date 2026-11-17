@@ -1,0 +1,26 @@
+{
+  "cff-version": "1.2.0",
+  "message": "Please cite this version of the software and aggregate review material.",
+  "type": "software",
+  "title": "CABG creatinine-reference decomposition code and aggregate review material",
+  "authors": [
+    {
+      "given-names": "Yi",
+      "family-names": "Liu"
+    },
+    {
+      "given-names": "Hui",
+      "family-names": "Wang"
+    },
+    {
+      "given-names": "Qian",
+      "family-names": "Sun"
+    }
+  ],
+  "version": "aki-code-2026-11-17-rc7",
+  "license": [
+    "MIT",
+    "CC-BY-4.0"
+  ],
+  "url": "https://github.com/liuyi-pp/cabg-creatinine-reference-decomposition"
+}
